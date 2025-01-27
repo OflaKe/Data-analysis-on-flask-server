@@ -1,4 +1,18 @@
-Documentație
+S-au incercat mai multe metode de clasificare a datelor aceasta prezentata fiind cea mai potrivita pentru acest MLM (LR).
+
+Random Forest - Accuracy: 0.9544
+Random Forest - Precision: 0.8669
+Random Forest - F1 Score: 0.8892
+Logistic Regression - Accuracy: 0.9559
+Logistic Regression - Precision: 0.8703
+Logistic Regression - F1 Score: 0.8957
+SVM - Accuracy: 0.9454
+SVM - Precision: 0.7906
+SVM - F1 Score: 0.8773
+KNN - Accuracy: 0.9230
+KNN - Precision: 0.8071
+KNN - F1 Score: 0.8119
+
 Pregătirea datelor:
 
 Am încărcat setul de date insurance.csv și am eliminat rândurile cu valori lipsă.
